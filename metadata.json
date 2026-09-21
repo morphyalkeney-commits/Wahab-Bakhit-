@@ -1,0 +1,6 @@
+{
+  "name": "BIG SEVEN Music",
+  "description": "Official BIG SEVEN music app with African Dancehall, Afrobeat, Amapiano, and Alur releases, audio player, lyrics, downloads, artist profile, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
